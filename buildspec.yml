@@ -30,5 +30,3 @@ artifacts:
     - index.html
     - package.json
     - 'appspec.yaml'
- 
-   discard-paths: yes
