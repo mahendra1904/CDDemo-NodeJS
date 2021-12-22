@@ -30,6 +30,5 @@ artifacts:
     - index.html
     - package.json
     - 'appspec.yaml'
-    - node_modules/async/*
-    - node_modules/lodash/*
+ 
    discard-paths: yes
